@@ -1,5 +1,5 @@
-[![Build Status](https://app.travis-ci.com/joaomlneto/travis-ci-tutorial-java.svg?branch=master)](https://app.travis-ci.com/joaomlneto/travis-ci-tutorial-java)
-[![Code Coverage](https://codecov.io/github/joaomlneto/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/joaomlneto/travis-ci-tutorial-java)
+[![Build Status](https://app.travis-ci.com/xyllq999/travis-ci-tutorial-java.svg?branch=master)](https://app.travis-ci.com/xyllq999/travis-ci-tutorial-java)
+[![Code Coverage](https://codecov.io/github/xyllq999/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/xyllq999/travis-ci-tutorial-java)
 
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
@@ -8,13 +8,13 @@ This is a working minimal example of how to use Travis CI (and Codecov) with Jav
 
 - It uses the [JUnit](https://junit.org) testing framework
 
-[Click here for the example using GitHub Actions instead of Travis CI](https://github.com/joaomlneto/github-ci-tutorial-java)
+[Click here for the example using GitHub Actions instead of Travis CI](https://github.com/xyllq999/github-ci-tutorial-java)
 
 # How To Start
 
-1. [Fork](https://github.com/joaomlneto/travis-ci-tutorial-java/fork) this Repository
+1. [Fork](https://github.com/xyllq999/travis-ci-tutorial-java/fork) this Repository
 2. Go to [Travis CI](http://travis-ci.com) and enable the repository
-3. Fix the `README.md` badges (replacing in the URL `joaomlneto` with `your-github-username`) and push the changes. This should trigger a build in Travis CI!
+3. Fix the `README.md` badges (replacing in the URL `xyllq999` with `your-github-username`) and push the changes. This should trigger a build in Travis CI!
 
 ## Optional: Code Coverage with CodeCov
 
@@ -37,4 +37,4 @@ If you don't want it:
 # Contributing
 
 Spotted a mistake? Questions? Suggestions?  
-[Open an Issue](https://github.com/joaomlneto/travis-ci-tutorial-java/issues/new)!
+[Open an Issue](https://github.com/xyllq999/travis-ci-tutorial-java/issues/new)!
